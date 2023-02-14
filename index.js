@@ -6,7 +6,7 @@ var options = {
   threshold: 0.1,
 };
 
-// quote template
+// define template, contents
 var template = document.querySelector(".js-template-quote");
 var contents = document.querySelector("#contents");
 
